@@ -5,8 +5,8 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
-import br.edu.scl.ifsp.sdm.fastcalculation.Extras.EXTRA_SETTINGS
-import br.edu.scl.ifsp.sdm.fastcalculation.databinding.ActivityGameBinding
+import br.edu.scl.ifsp.sdm.Extras.EXTRA_SETTINGS
+import br.edu.scl.ifsp.sdm.databinding.ActivityGameBinding
 
 class GameActivity : AppCompatActivity(), OnPlayGame {
     private val activityGameBinding: ActivityGameBinding by lazy {
