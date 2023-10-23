@@ -97,7 +97,7 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\TECHSTUDIO\.gradle
 		ADDED from D:\Projeto\FastCalculation\app\src\main\AndroidManifest.xml:13:9-53
 	android:dataExtractionRules
 		ADDED from D:\Projeto\FastCalculation\app\src\main\AndroidManifest.xml:7:9-65
-activity#br.edu.scl.ifsp.sdm.MainActivity
+activity#br.edu.scl.ifsp.sdm.GameActivity
 ADDED from D:\Projeto\FastCalculation\app\src\main\AndroidManifest.xml:15:9-23:20
 	android:exported
 		ADDED from D:\Projeto\FastCalculation\app\src\main\AndroidManifest.xml:17:13-36
