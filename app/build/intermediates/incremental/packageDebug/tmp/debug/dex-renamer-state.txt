@@ -1,4 +1,4 @@
-#Mon Oct 23 20:40:12 BRT 2023
+#Mon Oct 23 22:20:20 BRT 2023
 base.0=D\:\\Projeto\\FastCalculation\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 base.1=D\:\\Projeto\\FastCalculation\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.2=D\:\\Projeto\\FastCalculation\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex

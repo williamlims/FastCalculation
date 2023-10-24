@@ -53,7 +53,7 @@ class GameActivity : AppCompatActivity(), OnPlayGame {
             }
         }
     }
-    //faz o replace do fragmente que ocupa o gamefremelayout
+
     override fun onPlayGame() {
         supportFragmentManager.beginTransaction().replace(R.id.gameFl, GameFragment.newInstance(settings)).commit()
     }

@@ -80,6 +80,10 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-pngs-27:\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
+        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/layout_activity_game.xml.flat",
+        "source": "br.edu.scl.ifsp.sdm.app-main-33:/layout/activity_game.xml"
+    },
+    {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
