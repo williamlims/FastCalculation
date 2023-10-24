@@ -13,7 +13,6 @@ class GameActivity : AppCompatActivity(), OnPlayGame {
     }
     private lateinit var settings: Settings
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(activityGameBinding.root)
@@ -30,12 +29,10 @@ class GameActivity : AppCompatActivity(), OnPlayGame {
             .replace(R.id.gameFl, WelcomeFragment.newInstance(settings)).commit()
 
     }
-
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.menu_game, menu)
         return true
     }
-
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when (item.itemId) {
             R.id.restartGameMi -> {
@@ -53,7 +50,6 @@ class GameActivity : AppCompatActivity(), OnPlayGame {
             }
         }
     }
-
     override fun onPlayGame() {
         supportFragmentManager.beginTransaction().replace(R.id.gameFl, GameFragment.newInstance(settings)).commit()
     }

@@ -14,7 +14,8 @@
         android:text= "@string/welcome"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintTop_toTopOf="parent" />
+
     <Button
         android:id="@+id/playerBt"
         android:layout_width="wrap_content"
@@ -22,6 +23,6 @@
         android:text="@string/play"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/welcomeTv"/>
+        app:layout_constraintTop_toBottomOf="@id/welcomeTv" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

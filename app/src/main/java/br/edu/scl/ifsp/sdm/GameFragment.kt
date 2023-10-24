@@ -31,6 +31,7 @@ class GameFragment : Fragment() {
             play()
         }
     }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         arguments?.let {
@@ -38,6 +39,7 @@ class GameFragment : Fragment() {
         }
         calculationGame = CalculationGame(settings.rounds)
     }
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -102,6 +104,7 @@ class GameFragment : Fragment() {
                 alternativeOneBt.visibility = View.GONE
                 alternativeTwoBt.visibility = View.GONE
                 alternativeThreeBt.visibility = View.GONE
+
             }
         }
     }

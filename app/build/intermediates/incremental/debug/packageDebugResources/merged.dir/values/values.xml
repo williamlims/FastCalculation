@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rounds">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <color name="backgroundColor">#fbfdf9</color>
+    <color name="backgroundColorDark">#191c1b</color>
+    <color name="black">#FF000000</color>
+    <color name="colorOnBackground">#191c1b</color>
+    <color name="colorOnBackgroundDark">#e1e3e0</color>
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorOnPrimaryContainer">#002117</color>
+    <color name="colorOnPrimaryContainerDark">#7bf9d1</color>
+    <color name="colorOnPrimaryDark">#00382a</color>
+    <color name="colorOnSecondary">#ffffff</color>
+    <color name="colorOnSecondaryContainer">#082018</color>
+    <color name="colorOnSecondaryContainerDark">#cee9dc</color>
+    <color name="colorOnSecondaryDark">#1e352d</color>
+    <color name="colorOnSurface">#191c1b</color>
+    <color name="colorOnSurfaceDark">#e1e3e0</color>
+    <color name="colorOnSurfaceVariant">#3f4944</color>
+    <color name="colorOnSurfaceVariantDark">#bfc9c3</color>
+    <color name="colorOnTertiary">#ffffff</color>
+    <color name="colorOnTertiaryContainer">#cee9dc</color>
+    <color name="colorOnTertiaryContainerDark">#c3e8fe</color>
+    <color name="colorOnTertiaryDark">#0c3446</color>
+    <color name="colorOutline">#707974</color>
+    <color name="colorOutlineDark">#89938e</color>
+    <color name="colorPrimary">#006b54</color>
+    <color name="colorPrimaryContainer">#7bf9d1</color>
+    <color name="colorPrimaryContainerDark">#00513e</color>
+    <color name="colorPrimaryDark">#5ddcb5</color>
+    <color name="colorSecondary">#4b635a</color>
+    <color name="colorSecondaryContainer">#cee9dc</color>
+    <color name="colorSecondaryContainerDark">#344c43</color>
+    <color name="colorSecondaryDark">#b2ccc1</color>
+    <color name="colorSurface">#fbfdf9</color>
+    <color name="colorSurfaceDark">#191c1b</color>
+    <color name="colorSurfaceVariant">#dbe5df</color>
+    <color name="colorSurfaceVariantDark">#3f4944</color>
+    <color name="colorTertiary">#406376</color>
+    <color name="colorTertiaryContainer">#cee9dc</color>
+    <color name="colorTertiaryContainerDark">#274b5d</color>
+    <color name="colorTertiaryDark">#a8cce1</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">FastCalculation</string>
+    <string name="exit">Exit</string>
+    <string name="five">5</string>
+    <string name="game">Game</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lets_go">Let\'s go</string>
+    <string name="one">1</string>
+    <string name="play">Play</string>
+    <string name="player_name">Player Name</string>
+    <string name="points">Points</string>
+    <string name="restart_game">Restart game</string>
+    <string name="round_interval">Round Interval</string>
+    <string name="rounds">Rounds</string>
+    <string name="settings">Settings</string>
+    <string name="three">3</string>
+    <string name="welcome">Welcome</string>
+    <style name="Base.Theme.FastCalculation" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:textColorSecondary">@color/colorOnPrimary</item>
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/colorOnPrimaryContainer</item>
+
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/colorOnSecondaryContainer</item>
+
+        <item name="colorTertiary">@color/colorTertiary</item>
+        <item name="colorOnTertiary">@color/colorOnTertiary</item>
+        <item name="colorTertiaryContainer">@color/colorTertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/colorOnTertiaryContainer</item>
+
+        <item name="backgroundColor">@color/backgroundColor</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+
+        <item name="colorOutline">@color/colorOutline</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/colorOnSurfaceVariant</item>
+    </style>
+    <style name="GameButton">
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">48sp</item>
+    </style>
+    <style name="SettingsView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">10dp</item>
+    </style>
+    <style name="Theme.FastCalculation" parent="Base.Theme.FastCalculation"/>
+    <style name="Toolbar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="titleTextColor">@color/colorOnPrimary</item>
+        <item name="subtitleTextColor">@color/colorOnPrimary</item>
+    </style>
+</resources>

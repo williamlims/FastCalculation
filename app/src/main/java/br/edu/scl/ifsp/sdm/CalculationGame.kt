@@ -1,7 +1,9 @@
 package br.edu.scl.ifsp.sdm
 
 import kotlin.random.Random
+
 enum class Operator {ADD, SUB, MUL, DIV}
+
 class CalculationGame(private val  rounds:Int) {
     companion object {
         private const val INITIAL_VALUE = 1
@@ -10,6 +12,7 @@ class CalculationGame(private val  rounds:Int) {
 
     private var currentRound: Int = 0
     private val random = Random(System.currentTimeMillis())
+
     fun nextRound(): Round? {
         return if (currentRound < rounds) {
             var op1 = random.nextInt(INITIAL_VALUE, FINAL_VALUE + 1)
@@ -55,6 +58,7 @@ class CalculationGame(private val  rounds:Int) {
             Round(question, answer, altList[0], altList[1], altList[2], currentRound)
         } else null
     }
+
     private fun genAlternatives(op1: Int, op2:Int, answer: Int):List<Int>{
         val operationSet = mutableSetOf(op1 - op2, op1+op2, op1 * op2, op1 / op2)
         val lowest = operationSet.min()
@@ -66,6 +70,7 @@ class CalculationGame(private val  rounds:Int) {
         }
         return alternativeSet.toList().shuffled()
     }
+
     data class Round (
         val question:String,
         val answer: Int,
@@ -74,5 +79,4 @@ class CalculationGame(private val  rounds:Int) {
         val alt3: Int,
         val round: Int
     )
-
 }

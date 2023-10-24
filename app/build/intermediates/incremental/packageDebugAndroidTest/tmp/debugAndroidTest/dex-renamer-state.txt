@@ -1,7 +1,7 @@
-#Mon Oct 23 18:05:50 BRT 2023
-base.0=D\:\\Projeto\\FastCalculation\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
-base.1=D\:\\Projeto\\FastCalculation\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
-base.2=D\:\\Projeto\\FastCalculation\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\12\\classes.dex
+#Tue Oct 24 08:18:07 BRT 2023
+base.0=D\:\\perfil\\williamanselmo\\Desktop\\PROJETOPOS\\FastCalculation\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=D\:\\perfil\\williamanselmo\\Desktop\\PROJETOPOS\\FastCalculation\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=D\:\\perfil\\williamanselmo\\Desktop\\PROJETOPOS\\FastCalculation\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\12\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=12/classes.dex

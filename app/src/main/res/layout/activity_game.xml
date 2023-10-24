@@ -13,7 +13,7 @@
         layout="@layout/toolbar_game"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"/>
 
     <FrameLayout
         android:id="@+id/gameFl"
@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintBottom_toBottomOf="@id/gameTbIn" />
+        app:layout_constraintTop_toBottomOf="@id/gameTbIn"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
