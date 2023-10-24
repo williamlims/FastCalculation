@@ -4,16 +4,24 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-xxhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-xxhdpi\\ic_exit.png"
+    },
+    {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-hdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-hdpi\\ic_exit.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\layout_toolbar_game.xml.flat",
@@ -28,12 +36,12 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-pngs-27:\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-anydpi_ic_exit.xml.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-anydpi/ic_exit.xml"
-    },
-    {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-xxhdpi_ic_restart.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-xxhdpi\\ic_restart.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -44,8 +52,8 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-mdpi_ic_restart.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-mdpi/ic_restart.png"
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-anydpi_ic_restart.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-anydpi\\ic_restart.xml"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
@@ -72,20 +80,12 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-pngs-27:\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-hdpi_ic_restart.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-hdpi/ic_restart.png"
-    },
-    {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-xhdpi_ic_exit.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-xhdpi/ic_exit.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\layout_fragment_game.xml.flat",
@@ -96,20 +96,24 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\menu\\menu_game.xml"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-xxhdpi_ic_restart.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-xxhdpi/ic_restart.png"
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-xhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-xhdpi\\ic_exit.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-anydpi_ic_restart.xml.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-anydpi/ic_restart.xml"
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-hdpi_ic_restart.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-hdpi\\ic_restart.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-xhdpi_ic_restart.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-xhdpi\\ic_restart.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -124,16 +128,16 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable\\ic_exit.png"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-mdpi_ic_exit.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-mdpi/ic_exit.png"
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-mdpi_ic_restart.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-mdpi\\ic_restart.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-xxhdpi_ic_exit.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-xxhdpi/ic_exit.png"
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\mipmap-hdpi_ic_fast_calculation.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\mipmap-hdpi\\ic_fast_calculation.png"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable_ic_restart.png.flat",
@@ -144,12 +148,8 @@
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-xhdpi_ic_restart.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-xhdpi/ic_restart.png"
-    },
-    {
-        "merged": "br.edu.scl.ifsp.sdm.app-merged_res-31:/drawable-hdpi_ic_exit.png.flat",
-        "source": "br.edu.scl.ifsp.sdm.app-main-33:/drawable-hdpi/ic_exit.png"
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-anydpi_ic_exit.xml.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-anydpi\\ic_exit.xml"
     },
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\layout_activity_main.xml.flat",
@@ -162,5 +162,9 @@
     {
         "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\layout_activity_game.xml.flat",
         "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-merged_res-31:\\drawable-mdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\TECHSTUDIO\\.gradle\\daemon\\8.0\\br.edu.scl.ifsp.sdm.app-main-33:\\drawable-mdpi\\ic_exit.png"
     }
 ]

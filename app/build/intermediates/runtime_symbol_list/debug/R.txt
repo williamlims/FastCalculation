@@ -3793,8 +3793,7 @@ int layout select_dialog_singlechoice_material 0x7f0c006b
 int layout support_simple_spinner_dropdown_item 0x7f0c006c
 int layout toolbar_game 0x7f0c006d
 int menu menu_game 0x7f0e0000
-int mipmap ic_launcher 0x7f0f0000
-int mipmap ic_launcher_round 0x7f0f0001
+int mipmap ic_fast_calculation 0x7f0f0000
 int plurals mtrl_badge_content_description 0x7f100000
 int string abc_action_bar_home_description 0x7f110000
 int string abc_action_bar_up_description 0x7f110001

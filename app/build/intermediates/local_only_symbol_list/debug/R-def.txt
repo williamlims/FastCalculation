@@ -72,8 +72,7 @@ layout fragment_game
 layout fragment_welcome
 layout toolbar_game
 menu menu_game
-mipmap ic_launcher
-mipmap ic_launcher_round
+mipmap ic_fast_calculation
 string app_name
 string exit
 string five
